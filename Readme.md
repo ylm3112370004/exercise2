@@ -21,3 +21,9 @@ npm run test
 
 * [Jest](https://jestjs.io/zh-Hans/)
 * [Github Actions](https://docs.github.com/cn/actions)
+
+### 思路
+1 对齐两个字符串
+2 标识 是否大于 10 记录 差值
+3 结果存储在数组中
+4 生成字符串 注意是否需要 +1 
